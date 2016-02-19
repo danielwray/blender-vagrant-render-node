@@ -15,7 +15,7 @@ wget https://releases.hashicorp.com/vagrant/1.8.1/vagrant_1.8.1_x86_64.deb && su
 
 * Clone this repository
 ```
-git clone http://{ip}/danielwray/vagrant-render-node.git
+git clone {this_repo}
 ```
 
 * create ```data```, ```import```, and ```export``` directories
@@ -23,7 +23,7 @@ git clone http://{ip}/danielwray/vagrant-render-node.git
 mkdir -p ../data; mkdir -p ../export; mdir -p ../import
 ```
 
-* Run ```BLEND_FILE="import/example.blend" vagrant up``` to create new virtual machine and run a test render
+* Run ```BLEND_FILE="example.blend" vagrant up``` to create new virtual machine and run a test render
 
 * Once complete run ```vagrant ssh``` or ```ssh vagrant@{host_name}```
 
@@ -49,4 +49,4 @@ mkdir -p ../data; mkdir -p ../export; mdir -p ../import
 
 ### Info
 
-Author: {danielwrayuk@gmail.com}
+Author: {danielwray}
