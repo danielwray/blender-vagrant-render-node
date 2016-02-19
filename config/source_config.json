@@ -1,0 +1,7 @@
+{
+  "source_export_format": "EXR",
+  "host_source_import_path": "../import/",
+  "host_source_export_path": "../export/",
+  "guest_source_import_path": "/vagrant/blender/import/",
+  "guest_source_export_path": "/vagrant/blender/export/"
+}

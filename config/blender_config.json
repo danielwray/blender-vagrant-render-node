@@ -1,0 +1,8 @@
+{
+  "blender_url": "http://download.blender.org/release/Blender2.76/blender-2.76b-linux-glibc211-x86_64.tar.bz2",
+  "blender_pkg": "blender-2.76b-linux-glibc211-x86_64",
+  "blender_ver": "blender276b",
+  "blender_args": "--background -noaudio",
+  "blender_loc": "/vagrant/blender",
+  "blender_tmp": "/tmp"
+}

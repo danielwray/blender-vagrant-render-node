@@ -1,0 +1,11 @@
+.chef
+.vagrant
+.vagrant.UP
+.vagrant.INIT
+.vagrant.DESTROY
+.vagrant.log
+vagrant.ERROR
+data/
+import/
+export/
+blender/

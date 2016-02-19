@@ -1,0 +1,9 @@
+{
+  "box": "ubuntu/vivid64",
+  "host": "rendernode",
+  "ram": "8096",
+  "cpu": "4",
+  "gui": "false",
+  "host_vagrant_data_path": "../data",
+  "guest_vagrant_data_path": "/vagrant/data"
+}
