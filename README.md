@@ -23,6 +23,8 @@ git clone {this_repo}
 mkdir -p ../data; mkdir -p ../export; mdir -p ../import
 ```
 
+* Create an ```blend``` file in the ```../import``` directory and pass its name in the next step
+
 * Run ```BLEND_FILE="example.blend" vagrant up``` to create new virtual machine and run a test render
 
 * Once complete run ```vagrant ssh``` or ```ssh vagrant@{host_name}```
